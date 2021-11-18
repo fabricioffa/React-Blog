@@ -2,3 +2,30 @@ img {
   width: 100px;
   height: auto;
 }
+
+.posts-container {
+  margin: 0 25%;
+}
+
+.posts-container h4 {
+  text-align: center;
+}
+
+.posts-container h1 {
+  text-align: center;
+}
+
+.post-card {
+  border: 1px solid black;
+  margin-bottom: 3vh;
+}
+
+.post-btns {
+  padding-left: 30%;
+  border-top: 1px solid;
+}
+
+.comments-box{
+  border-top: 1px solid;
+  text-align: center;
+}
