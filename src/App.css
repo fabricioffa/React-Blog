@@ -25,7 +25,11 @@ img {
   border-top: 1px solid;
 }
 
-.comments-box{
+.comments-box {
   border-top: 1px solid;
   text-align: center;
+}
+
+.comment {
+  border-top: 1px solid;
 }
